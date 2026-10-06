@@ -1,16 +1,3 @@
-# End yoyo.org
-
-# Title: hostsVN Adult VN
-# Last modified: 20 Sep 2026 23:41 UTC+7
-# Version: 2609202341
-# Blocked: 1.925 domains
-# Only include adult domains (Vietnamese language)
-# Homepage: https://bigdargon.github.io/hostsVN/
-# GitHub: https://github.com/bigdargon/hostsVN
-# Report issues: https://github.com/bigdargon/hostsVN/issues
-# Download: https://github.com/bigdargon/hostsVN/raw/master/extensions/adult/hosts-VN
-#
-# =====================================================
 0.0.0.0 0310love.com
 0.0.0.0 neswngy.com
 0.0.0.0 arbnaar.com
